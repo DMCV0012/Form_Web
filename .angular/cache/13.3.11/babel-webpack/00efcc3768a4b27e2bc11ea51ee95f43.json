@@ -1,0 +1,1 @@
+{"ast":null,"code":"import 'zone.js'; // Necesario para Angular\n// Polyfills para Angular 13. Puedes dejarlo vacío o agregar polyfills si los necesitas.","map":null,"metadata":{},"sourceType":"module"}
